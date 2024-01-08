@@ -1,3 +1,8 @@
+# BBB Music Site
+
+![image](https://github.com/BCoop123/BBB-Music-Site/assets/114194395/8af0f3a3-89a3-45cb-b5fb-2956577f2285)
+
+
 # ASE220-BBB-SemesterProject - Assignment 6 Part 1
 
 Group Members: Brooks Arthur, Brandon Cooper, Ben Molloy, Quay Robinson
