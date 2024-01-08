@@ -5,14 +5,16 @@ By: Brandon Cooper, Brooks Arthur, Ben Molloy, Quay Robinson
 This is a social media site dedicated to music lovers. Users of the site can create an account and start posting about music and artists they love.
 
 Landing Page Preview
+
 ![image](https://github.com/BCoop123/BBB-Music-Site/assets/114194395/83212ec7-e9a0-4139-9cf5-61208a801d44)
 
 Profile Page Preview
+
 ![image](https://github.com/BCoop123/BBB-Music-Site/assets/114194395/1355cea7-f07c-47c9-baec-dedf3af8e6e0)
 
 ## Site Presentation
 
-[![Alt text](https://youtu.be/-F8-A5i3AjQ?si=Sy3Tb-MpvXHVjg7s)/0.jpg)(https://youtu.be/-F8-A5i3AjQ?si=Sy3Tb-MpvXHVjg7s)]
+[![BBB Music Site](https://img.youtube.com/vi/-F8-A5i3AjQ/0.jpg)](https://youtu.be/-F8-A5i3AjQ?si=Sy3Tb-MpvXHVjg7s)
 
 ## Contributions:
 
