@@ -1,7 +1,6 @@
 # BBB Music Site
 
-![image](https://github.com/BCoop123/BBB-Music-Site/assets/114194395/8af0f3a3-89a3-45cb-b5fb-2956577f2285)
-
+![image](https://github.com/BCoop123/BBB-Music-Site/assets/114194395/83212ec7-e9a0-4139-9cf5-61208a801d44)
 
 # ASE220-BBB-SemesterProject - Assignment 6 Part 1
 
